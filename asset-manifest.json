@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/or9400.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/or9400.github.io/static/js/main.35ab65a7.chunk.js",
-    "main.js.map": "/or9400.github.io/static/js/main.35ab65a7.chunk.js.map",
-    "runtime-main.js": "/or9400.github.io/static/js/runtime-main.81ed02dd.js",
-    "runtime-main.js.map": "/or9400.github.io/static/js/runtime-main.81ed02dd.js.map",
-    "static/js/2.432de35b.chunk.js": "/or9400.github.io/static/js/2.432de35b.chunk.js",
-    "static/js/2.432de35b.chunk.js.map": "/or9400.github.io/static/js/2.432de35b.chunk.js.map",
-    "index.html": "/or9400.github.io/index.html",
-    "precache-manifest.32b821ec2cd6447dc905a2034a99021c.js": "/or9400.github.io/precache-manifest.32b821ec2cd6447dc905a2034a99021c.js",
-    "service-worker.js": "/or9400.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/or9400.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.432de35b.chunk.js.LICENSE.txt": "/or9400.github.io/static/js/2.432de35b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/or9400.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/covid-19/static/css/main.5f361e03.chunk.css",
+    "main.js": "/covid-19/static/js/main.a2bac5ed.chunk.js",
+    "main.js.map": "/covid-19/static/js/main.a2bac5ed.chunk.js.map",
+    "runtime-main.js": "/covid-19/static/js/runtime-main.6ca52c11.js",
+    "runtime-main.js.map": "/covid-19/static/js/runtime-main.6ca52c11.js.map",
+    "static/js/2.432de35b.chunk.js": "/covid-19/static/js/2.432de35b.chunk.js",
+    "static/js/2.432de35b.chunk.js.map": "/covid-19/static/js/2.432de35b.chunk.js.map",
+    "index.html": "/covid-19/index.html",
+    "precache-manifest.925193aa04f9c143b0f887f973e349b3.js": "/covid-19/precache-manifest.925193aa04f9c143b0f887f973e349b3.js",
+    "service-worker.js": "/covid-19/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/covid-19/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.432de35b.chunk.js.LICENSE.txt": "/covid-19/static/js/2.432de35b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/covid-19/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.81ed02dd.js",
+    "static/js/runtime-main.6ca52c11.js",
     "static/js/2.432de35b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.35ab65a7.chunk.js"
+    "static/js/main.a2bac5ed.chunk.js"
   ]
 }
